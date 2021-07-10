@@ -1,0 +1,43 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "getting-started/autogenerate-tests",
+              "path": "/docs/getting-started/autogenerate-tests",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "getting-started/installing-otto",
+              "path": "/docs/getting-started/installing-otto",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "getting-started/markdown-features",
+              "path": "/docs/getting-started/markdown-features",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "getting-started/preview-environment",
+              "path": "/docs/getting-started/preview-environment",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/docs/intro",
+              "sidebar": "tutorialSidebar"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

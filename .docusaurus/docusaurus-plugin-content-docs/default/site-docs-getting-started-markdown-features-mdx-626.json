@@ -1,0 +1,22 @@
+{
+  "unversionedId": "getting-started/markdown-features",
+  "id": "getting-started/markdown-features",
+  "isDocsHomePage": false,
+  "title": "Markdown Features",
+  "description": "Docusaurus supports Markdown and a few additional features.",
+  "source": "@site/docs/getting-started/markdown-features.mdx",
+  "sourceDirName": "getting-started",
+  "slug": "/getting-started/markdown-features",
+  "permalink": "/docs/getting-started/markdown-features",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/getting-started/markdown-features.mdx",
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Setup Preview Environment",
+    "permalink": "/docs/getting-started/preview-environment"
+  }
+}

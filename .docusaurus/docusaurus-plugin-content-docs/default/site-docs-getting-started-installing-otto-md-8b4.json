@@ -1,0 +1,26 @@
+{
+  "unversionedId": "getting-started/installing-otto",
+  "id": "getting-started/installing-otto",
+  "isDocsHomePage": false,
+  "title": "Installing Otto",
+  "description": "Markdown / instructions on how to install Otto",
+  "source": "@site/docs/getting-started/installing-otto.md",
+  "sourceDirName": "getting-started",
+  "slug": "/getting-started/installing-otto",
+  "permalink": "/docs/getting-started/installing-otto",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/getting-started/installing-otto.md",
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Why BlueNova",
+    "permalink": "/docs/intro"
+  },
+  "next": {
+    "title": "Auto-Generate Your First Test",
+    "permalink": "/docs/getting-started/autogenerate-tests"
+  }
+}

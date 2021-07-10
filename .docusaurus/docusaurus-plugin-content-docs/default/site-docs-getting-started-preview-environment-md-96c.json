@@ -1,0 +1,26 @@
+{
+  "unversionedId": "getting-started/preview-environment",
+  "id": "getting-started/preview-environment",
+  "isDocsHomePage": false,
+  "title": "Setup Preview Environment",
+  "description": "Instructions on how to do this.",
+  "source": "@site/docs/getting-started/preview-environment.md",
+  "sourceDirName": "getting-started",
+  "slug": "/getting-started/preview-environment",
+  "permalink": "/docs/getting-started/preview-environment",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/getting-started/preview-environment.md",
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Auto-Generate Your First Test",
+    "permalink": "/docs/getting-started/autogenerate-tests"
+  },
+  "next": {
+    "title": "Markdown Features",
+    "permalink": "/docs/getting-started/markdown-features"
+  }
+}
