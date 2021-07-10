@@ -5,13 +5,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 module.exports = {
   title: 'BlueNova - Docs',
   tagline: 'Documentation for BlueNova products',
-  url: 'https://github.com/bluenovaio',
+  url: 'https://bluenovaio.github.io',
   baseUrl: '/',
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/BlueNova_Favicon.png',
   organizationName: 'bluenovaio', // GitHub org/user name.
-  projectName: 'bluenova-docs', // Repo name.
+  projectName: 'documentation', // Repo name.
   trailingSlash: false,
   themeConfig: {
     navbar: {

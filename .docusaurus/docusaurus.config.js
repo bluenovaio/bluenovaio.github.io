@@ -1,13 +1,13 @@
 export default {
   "title": "BlueNova - Docs",
   "tagline": "Documentation for BlueNova products",
-  "url": "https://github.com/bluenovaio",
+  "url": "https://bluenovaio.github.io",
   "baseUrl": "/",
-  "onBrokenLinks": "throw",
+  "onBrokenLinks": "ignore",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/BlueNova_Favicon.png",
   "organizationName": "bluenovaio",
-  "projectName": "bluenova-docs",
+  "projectName": "documentation",
   "trailingSlash": false,
   "themeConfig": {
     "navbar": {
