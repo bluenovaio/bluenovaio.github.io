@@ -1,0 +1,26 @@
+{
+  "unversionedId": "getting-started/installing-otto copy",
+  "id": "getting-started/installing-otto copy",
+  "isDocsHomePage": false,
+  "title": "Installing Otto",
+  "description": "Markdown / instructions on how to install Otto",
+  "source": "@site/docs/getting-started/installing-otto copy.md",
+  "sourceDirName": "getting-started",
+  "slug": "/getting-started/installing-otto copy",
+  "permalink": "/docs/getting-started/installing-otto copy",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/getting-started/installing-otto copy.md",
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Differences",
+    "permalink": "/docs/overview/differences"
+  },
+  "next": {
+    "title": "Installing Otto",
+    "permalink": "/docs/getting-started/installing-otto"
+  }
+}

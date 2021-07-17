@@ -16,7 +16,7 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Setup Preview Environment",
-    "permalink": "/docs/getting-started/preview-environment"
+    "title": "How To Test Your App",
+    "permalink": "/docs/getting-started/testing-your-app"
   }
 }

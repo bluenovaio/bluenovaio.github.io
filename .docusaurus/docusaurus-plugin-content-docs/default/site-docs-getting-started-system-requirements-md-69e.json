@@ -1,0 +1,26 @@
+{
+  "unversionedId": "getting-started/system-requirements",
+  "id": "getting-started/system-requirements",
+  "isDocsHomePage": false,
+  "title": "System Requirements",
+  "description": "Acceptance Criteria:",
+  "source": "@site/docs/getting-started/system-requirements.md",
+  "sourceDirName": "getting-started",
+  "slug": "/getting-started/system-requirements",
+  "permalink": "/docs/getting-started/system-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/getting-started/system-requirements.md",
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Roadmap",
+    "permalink": "/docs/overview/roadmap"
+  },
+  "next": {
+    "title": "Installing Otto",
+    "permalink": "/docs/getting-started/installing-otto"
+  }
+}

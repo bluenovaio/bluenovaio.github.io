@@ -1,0 +1,26 @@
+{
+  "unversionedId": "getting-started/create-bluenova-account copy",
+  "id": "getting-started/create-bluenova-account copy",
+  "isDocsHomePage": false,
+  "title": "Create BlueNova Account",
+  "description": "Markdown / instructions on how to install Otto",
+  "source": "@site/docs/getting-started/create-bluenova-account copy.md",
+  "sourceDirName": "getting-started",
+  "slug": "/getting-started/create-bluenova-account copy",
+  "permalink": "/docs/getting-started/create-bluenova-account copy",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/getting-started/create-bluenova-account copy.md",
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Why BlueNova",
+    "permalink": "/docs/intro"
+  },
+  "next": {
+    "title": "Create BlueNova Account",
+    "permalink": "/docs/getting-started/create-bluenova-account"
+  }
+}

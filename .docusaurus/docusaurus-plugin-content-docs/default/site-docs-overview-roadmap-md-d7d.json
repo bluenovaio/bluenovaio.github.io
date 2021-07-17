@@ -1,0 +1,26 @@
+{
+  "unversionedId": "overview/roadmap",
+  "id": "overview/roadmap",
+  "isDocsHomePage": false,
+  "title": "Roadmap",
+  "description": "Acceptance Criteria:",
+  "source": "@site/docs/overview/roadmap.md",
+  "sourceDirName": "overview",
+  "slug": "/overview/roadmap",
+  "permalink": "/docs/overview/roadmap",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/overview/roadmap.md",
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Why BlueNova",
+    "permalink": "/docs/overview/intro"
+  },
+  "next": {
+    "title": "System Requirements",
+    "permalink": "/docs/getting-started/system-requirements"
+  }
+}

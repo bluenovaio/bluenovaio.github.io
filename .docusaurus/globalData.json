@@ -8,7 +8,7 @@
           "label": "Next",
           "isLast": true,
           "path": "/docs",
-          "mainDocId": "intro",
+          "mainDocId": "open-questions",
           "docs": [
             {
               "id": "getting-started/autogenerate-tests",
@@ -26,13 +26,28 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "getting-started/preview-environment",
-              "path": "/docs/getting-started/preview-environment",
+              "id": "getting-started/system-requirements",
+              "path": "/docs/getting-started/system-requirements",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "intro",
-              "path": "/docs/intro",
+              "id": "getting-started/testing-your-app",
+              "path": "/docs/getting-started/testing-your-app",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "open-questions",
+              "path": "/docs/open-questions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overview/intro",
+              "path": "/docs/overview/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overview/roadmap",
+              "path": "/docs/overview/roadmap",
               "sidebar": "tutorialSidebar"
             }
           ]

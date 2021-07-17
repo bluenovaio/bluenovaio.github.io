@@ -8,13 +8,35 @@
     "tutorialSidebar": [
       {
         "type": "link",
-        "label": "Why BlueNova",
-        "href": "/docs/intro"
+        "label": "Open Questions",
+        "href": "/docs/open-questions"
+      },
+      {
+        "type": "category",
+        "label": "Overview",
+        "items": [
+          {
+            "type": "link",
+            "label": "Why BlueNova",
+            "href": "/docs/overview/intro"
+          },
+          {
+            "type": "link",
+            "label": "Roadmap",
+            "href": "/docs/overview/roadmap"
+          }
+        ],
+        "collapsed": true
       },
       {
         "type": "category",
         "label": "Getting Started",
         "items": [
+          {
+            "type": "link",
+            "label": "System Requirements",
+            "href": "/docs/getting-started/system-requirements"
+          },
           {
             "type": "link",
             "label": "Installing Otto",
@@ -27,8 +49,8 @@
           },
           {
             "type": "link",
-            "label": "Setup Preview Environment",
-            "href": "/docs/getting-started/preview-environment"
+            "label": "How To Test Your App",
+            "href": "/docs/getting-started/testing-your-app"
           },
           {
             "type": "link",
@@ -44,7 +66,10 @@
     "/docs/getting-started/autogenerate-tests": "tutorialSidebar",
     "/docs/getting-started/installing-otto": "tutorialSidebar",
     "/docs/getting-started/markdown-features": "tutorialSidebar",
-    "/docs/getting-started/preview-environment": "tutorialSidebar",
-    "/docs/intro": "tutorialSidebar"
+    "/docs/getting-started/system-requirements": "tutorialSidebar",
+    "/docs/getting-started/testing-your-app": "tutorialSidebar",
+    "/docs/open-questions": "tutorialSidebar",
+    "/docs/overview/intro": "tutorialSidebar",
+    "/docs/overview/roadmap": "tutorialSidebar"
   }
 }

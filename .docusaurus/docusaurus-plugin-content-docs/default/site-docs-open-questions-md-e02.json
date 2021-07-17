@@ -1,0 +1,22 @@
+{
+  "unversionedId": "open-questions",
+  "id": "open-questions",
+  "isDocsHomePage": false,
+  "title": "Open Questions",
+  "description": "Open Questions:",
+  "source": "@site/docs/open-questions.md",
+  "sourceDirName": ".",
+  "slug": "/open-questions",
+  "permalink": "/docs/open-questions",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/open-questions.md",
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Why BlueNova",
+    "permalink": "/docs/overview/intro"
+  }
+}

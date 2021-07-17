@@ -1,0 +1,26 @@
+{
+  "unversionedId": "overview/differences",
+  "id": "overview/differences",
+  "isDocsHomePage": false,
+  "title": "Differences",
+  "description": "Here we should describe why BlueNova is different from Cypress or another similar product.",
+  "source": "@site/docs/overview/differences.md",
+  "sourceDirName": "overview",
+  "slug": "/overview/differences",
+  "permalink": "/docs/overview/differences",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/overview/differences.md",
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Why BlueNova",
+    "permalink": "/docs/overview/intro"
+  },
+  "next": {
+    "title": "System Requirements",
+    "permalink": "/docs/getting-started/system-requirements"
+  }
+}

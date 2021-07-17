@@ -3,7 +3,7 @@
   "id": "intro",
   "isDocsHomePage": false,
   "title": "Why BlueNova",
-  "description": "A little bit here about BlueNova.",
+  "description": "Acceptance Criteria:",
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",
   "slug": "/intro",
@@ -16,7 +16,7 @@
   },
   "sidebar": "tutorialSidebar",
   "next": {
-    "title": "Installing Otto",
-    "permalink": "/docs/getting-started/installing-otto"
+    "title": "Why BlueNova",
+    "permalink": "/docs/overview/intro"
   }
 }
