@@ -22,7 +22,7 @@ module.exports = {
       items: [
         {
           type: 'doc',
-          docId: 'intro',
+          docId: 'overview/intro',
           position: 'left',
           label: 'Docs',
         },
@@ -42,7 +42,7 @@ module.exports = {
           items: [
             {
               label: 'Why BlueNova',
-              to: '/docs/intro',
+              to: '/docs/overview/intro',
             },
             {
               label: 'Getting Started',

@@ -1,7 +1,6 @@
 ---
-sidebar_position: 2
+sidebar_position: 3
 ---
 
 # Auto-Generate Your First Test
-
-Instructions on how to auto-generate your first test
+MORE DETAILS COMING SOON!!

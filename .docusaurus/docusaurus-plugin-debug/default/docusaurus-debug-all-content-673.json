@@ -11,15 +11,26 @@
           "versionBanner": "none",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "/Users/srosenbauer/Documents/GitHub/documentation/sidebars.js",
-          "contentPath": "/Users/srosenbauer/Documents/GitHub/documentation/docs",
-          "contentPathLocalized": "/Users/srosenbauer/Documents/GitHub/documentation/i18n/en/docusaurus-plugin-content-docs/current",
-          "mainDocId": "intro",
+          "sidebarFilePath": "/Users/srosenbauer/Documents/GitHub/bluenovaio.github.io/sidebars.js",
+          "contentPath": "/Users/srosenbauer/Documents/GitHub/bluenovaio.github.io/docs",
+          "contentPathLocalized": "/Users/srosenbauer/Documents/GitHub/bluenovaio.github.io/i18n/en/docusaurus-plugin-content-docs/current",
+          "mainDocId": "overview/intro",
           "sidebars": {
             "tutorialSidebar": [
               {
-                "type": "doc",
-                "id": "intro"
+                "type": "category",
+                "label": "Overview",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "overview/intro"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "overview/roadmap"
+                  }
+                ],
+                "collapsed": true
               },
               {
                 "type": "category",
@@ -35,11 +46,7 @@
                   },
                   {
                     "type": "doc",
-                    "id": "getting-started/preview-environment"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "getting-started/markdown-features"
+                    "id": "getting-started/testing-your-app"
                   }
                 ],
                 "collapsed": true
@@ -49,9 +56,9 @@
           "permalinkToSidebar": {
             "/docs/getting-started/autogenerate-tests": "tutorialSidebar",
             "/docs/getting-started/installing-otto": "tutorialSidebar",
-            "/docs/getting-started/markdown-features": "tutorialSidebar",
-            "/docs/getting-started/preview-environment": "tutorialSidebar",
-            "/docs/intro": "tutorialSidebar"
+            "/docs/getting-started/testing-your-app": "tutorialSidebar",
+            "/docs/overview/intro": "tutorialSidebar",
+            "/docs/overview/roadmap": "tutorialSidebar"
           },
           "docs": [
             {
@@ -59,16 +66,16 @@
               "id": "getting-started/autogenerate-tests",
               "isDocsHomePage": false,
               "title": "Auto-Generate Your First Test",
-              "description": "Instructions on how to auto-generate your first test",
+              "description": "MORE DETAILS COMING SOON!!",
               "source": "@site/docs/getting-started/autogenerate-tests.md",
               "sourceDirName": "getting-started",
               "slug": "/getting-started/autogenerate-tests",
               "permalink": "/docs/getting-started/autogenerate-tests",
               "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/getting-started/autogenerate-tests.md",
               "version": "current",
-              "sidebarPosition": 2,
+              "sidebarPosition": 3,
               "frontMatter": {
-                "sidebar_position": 2
+                "sidebar_position": 3
               },
               "sidebar": "tutorialSidebar",
               "previous": {
@@ -76,8 +83,8 @@
                 "permalink": "/docs/getting-started/installing-otto"
               },
               "next": {
-                "title": "Setup Preview Environment",
-                "permalink": "/docs/getting-started/preview-environment"
+                "title": "How To Test Your App",
+                "permalink": "/docs/getting-started/testing-your-app"
               }
             },
             {
@@ -85,21 +92,21 @@
               "id": "getting-started/installing-otto",
               "isDocsHomePage": false,
               "title": "Installing Otto",
-              "description": "Markdown / instructions on how to install Otto",
-              "source": "@site/docs/getting-started/installing-otto.md",
+              "description": "These instructions are a work in progress. They should be completed by end of Q3 2021. At that point",
+              "source": "@site/docs/getting-started/installing-otto.mdx",
               "sourceDirName": "getting-started",
               "slug": "/getting-started/installing-otto",
               "permalink": "/docs/getting-started/installing-otto",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/getting-started/installing-otto.md",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/getting-started/installing-otto.mdx",
               "version": "current",
-              "sidebarPosition": 1,
+              "sidebarPosition": 2,
               "frontMatter": {
-                "sidebar_position": 1
+                "sidebar_position": 2
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Why BlueNova",
-                "permalink": "/docs/intro"
+                "title": "Roadmap",
+                "permalink": "/docs/overview/roadmap"
               },
               "next": {
                 "title": "Auto-Generate Your First Test",
@@ -107,38 +114,16 @@
               }
             },
             {
-              "unversionedId": "getting-started/markdown-features",
-              "id": "getting-started/markdown-features",
+              "unversionedId": "getting-started/testing-your-app",
+              "id": "getting-started/testing-your-app",
               "isDocsHomePage": false,
-              "title": "Markdown Features",
-              "description": "Docusaurus supports Markdown and a few additional features.",
-              "source": "@site/docs/getting-started/markdown-features.mdx",
+              "title": "How To Test Your App",
+              "description": "MORE DETAILS COMING SOON!",
+              "source": "@site/docs/getting-started/testing-your-app.md",
               "sourceDirName": "getting-started",
-              "slug": "/getting-started/markdown-features",
-              "permalink": "/docs/getting-started/markdown-features",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/getting-started/markdown-features.mdx",
-              "version": "current",
-              "sidebarPosition": 4,
-              "frontMatter": {
-                "sidebar_position": 4
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Setup Preview Environment",
-                "permalink": "/docs/getting-started/preview-environment"
-              }
-            },
-            {
-              "unversionedId": "getting-started/preview-environment",
-              "id": "getting-started/preview-environment",
-              "isDocsHomePage": false,
-              "title": "Setup Preview Environment",
-              "description": "Instructions on how to do this.",
-              "source": "@site/docs/getting-started/preview-environment.md",
-              "sourceDirName": "getting-started",
-              "slug": "/getting-started/preview-environment",
-              "permalink": "/docs/getting-started/preview-environment",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/getting-started/preview-environment.md",
+              "slug": "/getting-started/testing-your-app",
+              "permalink": "/docs/getting-started/testing-your-app",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/getting-started/testing-your-app.md",
               "version": "current",
               "sidebarPosition": 3,
               "frontMatter": {
@@ -148,29 +133,51 @@
               "previous": {
                 "title": "Auto-Generate Your First Test",
                 "permalink": "/docs/getting-started/autogenerate-tests"
-              },
-              "next": {
-                "title": "Markdown Features",
-                "permalink": "/docs/getting-started/markdown-features"
               }
             },
             {
-              "unversionedId": "intro",
-              "id": "intro",
+              "unversionedId": "overview/intro",
+              "id": "overview/intro",
               "isDocsHomePage": false,
               "title": "Why BlueNova",
-              "description": "A little bit here about BlueNova.",
-              "source": "@site/docs/intro.md",
-              "sourceDirName": ".",
-              "slug": "/intro",
-              "permalink": "/docs/intro",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/intro.md",
+              "description": "COMING SOON!!",
+              "source": "@site/docs/overview/intro.md",
+              "sourceDirName": "overview",
+              "slug": "/overview/intro",
+              "permalink": "/docs/overview/intro",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/overview/intro.md",
               "version": "current",
               "sidebarPosition": 1,
               "frontMatter": {
                 "sidebar_position": 1
               },
               "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "Roadmap",
+                "permalink": "/docs/overview/roadmap"
+              }
+            },
+            {
+              "unversionedId": "overview/roadmap",
+              "id": "overview/roadmap",
+              "isDocsHomePage": false,
+              "title": "Roadmap",
+              "description": "We are working hard to make our vision of a platform that makes developers lives easier.",
+              "source": "@site/docs/overview/roadmap.md",
+              "sourceDirName": "overview",
+              "slug": "/overview/roadmap",
+              "permalink": "/docs/overview/roadmap",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/overview/roadmap.md",
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Why BlueNova",
+                "permalink": "/docs/overview/intro"
+              },
               "next": {
                 "title": "Installing Otto",
                 "permalink": "/docs/getting-started/installing-otto"

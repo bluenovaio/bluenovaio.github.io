@@ -1,0 +1,22 @@
+{
+  "unversionedId": "getting-started/testing-your-app",
+  "id": "getting-started/testing-your-app",
+  "isDocsHomePage": false,
+  "title": "How To Test Your App",
+  "description": "MORE DETAILS COMING SOON!",
+  "source": "@site/docs/getting-started/testing-your-app.md",
+  "sourceDirName": "getting-started",
+  "slug": "/getting-started/testing-your-app",
+  "permalink": "/docs/getting-started/testing-your-app",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/getting-started/testing-your-app.md",
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Auto-Generate Your First Test",
+    "permalink": "/docs/getting-started/autogenerate-tests"
+  }
+}

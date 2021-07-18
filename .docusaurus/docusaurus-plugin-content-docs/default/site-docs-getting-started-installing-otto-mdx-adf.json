@@ -1,0 +1,26 @@
+{
+  "unversionedId": "getting-started/installing-otto",
+  "id": "getting-started/installing-otto",
+  "isDocsHomePage": false,
+  "title": "Installing Otto",
+  "description": "These instructions are a work in progress. They should be completed by end of Q3 2021. At that point",
+  "source": "@site/docs/getting-started/installing-otto.mdx",
+  "sourceDirName": "getting-started",
+  "slug": "/getting-started/installing-otto",
+  "permalink": "/docs/getting-started/installing-otto",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/getting-started/installing-otto.mdx",
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Roadmap",
+    "permalink": "/docs/overview/roadmap"
+  },
+  "next": {
+    "title": "Auto-Generate Your First Test",
+    "permalink": "/docs/getting-started/autogenerate-tests"
+  }
+}

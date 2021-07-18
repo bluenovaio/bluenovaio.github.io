@@ -1,7 +1,7 @@
 export default {
   "title": "BlueNova - Docs",
   "tagline": "Documentation for BlueNova products",
-  "url": "https://bluenovaio.github.io",
+  "url": "https://docs.bluenova.io",
   "baseUrl": "/",
   "onBrokenLinks": "ignore",
   "onBrokenMarkdownLinks": "warn",
@@ -18,7 +18,7 @@ export default {
       "items": [
         {
           "type": "doc",
-          "docId": "intro",
+          "docId": "overview/intro",
           "position": "left",
           "label": "Docs",
           "activeSidebarClassName": "navbar__link--active"
@@ -44,7 +44,7 @@ export default {
           "items": [
             {
               "label": "Why BlueNova",
-              "to": "/docs/intro"
+              "to": "/docs/overview/intro"
             },
             {
               "label": "Getting Started",
@@ -297,7 +297,7 @@ export default {
       "@docusaurus/preset-classic",
       {
         "docs": {
-          "sidebarPath": "/Users/srosenbauer/Documents/GitHub/documentation/sidebars.js",
+          "sidebarPath": "/Users/srosenbauer/Documents/GitHub/bluenovaio.github.io/sidebars.js",
           "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/"
         },
         "blog": {
@@ -305,7 +305,7 @@ export default {
           "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/blog/"
         },
         "theme": {
-          "customCss": "/Users/srosenbauer/Documents/GitHub/documentation/src/css/custom.css"
+          "customCss": "/Users/srosenbauer/Documents/GitHub/bluenovaio.github.io/src/css/custom.css"
         }
       }
     ]

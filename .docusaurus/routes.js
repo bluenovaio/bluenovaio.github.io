@@ -8,6 +8,41 @@ export default [
   exact: true,
 },
 {
+  path: '/__docusaurus/debug',
+  component: ComponentCreator('/__docusaurus/debug','3d6'),
+  exact: true,
+},
+{
+  path: '/__docusaurus/debug/config',
+  component: ComponentCreator('/__docusaurus/debug/config','914'),
+  exact: true,
+},
+{
+  path: '/__docusaurus/debug/content',
+  component: ComponentCreator('/__docusaurus/debug/content','c28'),
+  exact: true,
+},
+{
+  path: '/__docusaurus/debug/globalData',
+  component: ComponentCreator('/__docusaurus/debug/globalData','3cf'),
+  exact: true,
+},
+{
+  path: '/__docusaurus/debug/metadata',
+  component: ComponentCreator('/__docusaurus/debug/metadata','31b'),
+  exact: true,
+},
+{
+  path: '/__docusaurus/debug/registry',
+  component: ComponentCreator('/__docusaurus/debug/registry','0da'),
+  exact: true,
+},
+{
+  path: '/__docusaurus/debug/routes',
+  component: ComponentCreator('/__docusaurus/debug/routes','244'),
+  exact: true,
+},
+{
   path: '/blog',
   component: ComponentCreator('/blog','569'),
   exact: true,
@@ -59,7 +94,7 @@ export default [
 },
 {
   path: '/docs',
-  component: ComponentCreator('/docs','533'),
+  component: ComponentCreator('/docs','cb3'),
   
   routes: [
 {
@@ -69,22 +104,22 @@ export default [
 },
 {
   path: '/docs/getting-started/installing-otto',
-  component: ComponentCreator('/docs/getting-started/installing-otto','5f3'),
+  component: ComponentCreator('/docs/getting-started/installing-otto','52a'),
   exact: true,
 },
 {
-  path: '/docs/getting-started/markdown-features',
-  component: ComponentCreator('/docs/getting-started/markdown-features','e4d'),
+  path: '/docs/getting-started/testing-your-app',
+  component: ComponentCreator('/docs/getting-started/testing-your-app','0de'),
   exact: true,
 },
 {
-  path: '/docs/getting-started/preview-environment',
-  component: ComponentCreator('/docs/getting-started/preview-environment','a11'),
+  path: '/docs/overview/intro',
+  component: ComponentCreator('/docs/overview/intro','d82'),
   exact: true,
 },
 {
-  path: '/docs/intro',
-  component: ComponentCreator('/docs/intro','e84'),
+  path: '/docs/overview/roadmap',
+  component: ComponentCreator('/docs/overview/roadmap','eb8'),
   exact: true,
 },
 ]

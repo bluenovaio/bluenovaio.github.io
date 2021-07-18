@@ -1,0 +1,26 @@
+{
+  "unversionedId": "getting-started/autogenerate-tests copy",
+  "id": "getting-started/autogenerate-tests copy",
+  "isDocsHomePage": false,
+  "title": "Auto-Generate Your First Test",
+  "description": "Instructions on how to auto-generate your first test",
+  "source": "@site/docs/getting-started/autogenerate-tests copy.md",
+  "sourceDirName": "getting-started",
+  "slug": "/getting-started/autogenerate-tests copy",
+  "permalink": "/docs/getting-started/autogenerate-tests copy",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/getting-started/autogenerate-tests copy.md",
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Installing Otto",
+    "permalink": "/docs/getting-started/installing-otto"
+  },
+  "next": {
+    "title": "Auto-Generate Your First Test",
+    "permalink": "/docs/getting-started/autogenerate-tests"
+  }
+}
