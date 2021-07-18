@@ -7,11 +7,6 @@
   "docsSidebars": {
     "tutorialSidebar": [
       {
-        "type": "link",
-        "label": "Open Questions",
-        "href": "/docs/open-questions"
-      },
-      {
         "type": "category",
         "label": "Overview",
         "items": [
@@ -34,11 +29,6 @@
         "items": [
           {
             "type": "link",
-            "label": "System Requirements",
-            "href": "/docs/getting-started/system-requirements"
-          },
-          {
-            "type": "link",
             "label": "Installing Otto",
             "href": "/docs/getting-started/installing-otto"
           },
@@ -51,11 +41,6 @@
             "type": "link",
             "label": "How To Test Your App",
             "href": "/docs/getting-started/testing-your-app"
-          },
-          {
-            "type": "link",
-            "label": "Markdown Features",
-            "href": "/docs/getting-started/markdown-features"
           }
         ],
         "collapsed": true
@@ -65,10 +50,7 @@
   "permalinkToSidebar": {
     "/docs/getting-started/autogenerate-tests": "tutorialSidebar",
     "/docs/getting-started/installing-otto": "tutorialSidebar",
-    "/docs/getting-started/markdown-features": "tutorialSidebar",
-    "/docs/getting-started/system-requirements": "tutorialSidebar",
     "/docs/getting-started/testing-your-app": "tutorialSidebar",
-    "/docs/open-questions": "tutorialSidebar",
     "/docs/overview/intro": "tutorialSidebar",
     "/docs/overview/roadmap": "tutorialSidebar"
   }

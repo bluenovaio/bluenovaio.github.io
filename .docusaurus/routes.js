@@ -94,7 +94,7 @@ export default [
 },
 {
   path: '/docs',
-  component: ComponentCreator('/docs','d2f'),
+  component: ComponentCreator('/docs','cb3'),
   
   routes: [
 {
@@ -104,27 +104,12 @@ export default [
 },
 {
   path: '/docs/getting-started/installing-otto',
-  component: ComponentCreator('/docs/getting-started/installing-otto','5f3'),
-  exact: true,
-},
-{
-  path: '/docs/getting-started/markdown-features',
-  component: ComponentCreator('/docs/getting-started/markdown-features','e4d'),
-  exact: true,
-},
-{
-  path: '/docs/getting-started/system-requirements',
-  component: ComponentCreator('/docs/getting-started/system-requirements','0ba'),
+  component: ComponentCreator('/docs/getting-started/installing-otto','52a'),
   exact: true,
 },
 {
   path: '/docs/getting-started/testing-your-app',
   component: ComponentCreator('/docs/getting-started/testing-your-app','0de'),
-  exact: true,
-},
-{
-  path: '/docs/open-questions',
-  component: ComponentCreator('/docs/open-questions','755'),
   exact: true,
 },
 {

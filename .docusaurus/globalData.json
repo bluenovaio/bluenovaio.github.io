@@ -8,7 +8,7 @@
           "label": "Next",
           "isLast": true,
           "path": "/docs",
-          "mainDocId": "open-questions",
+          "mainDocId": "overview/intro",
           "docs": [
             {
               "id": "getting-started/autogenerate-tests",
@@ -21,23 +21,8 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "getting-started/markdown-features",
-              "path": "/docs/getting-started/markdown-features",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "getting-started/system-requirements",
-              "path": "/docs/getting-started/system-requirements",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "getting-started/testing-your-app",
               "path": "/docs/getting-started/testing-your-app",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "open-questions",
-              "path": "/docs/open-questions",
               "sidebar": "tutorialSidebar"
             },
             {

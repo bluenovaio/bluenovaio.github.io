@@ -14,13 +14,9 @@
           "sidebarFilePath": "/Users/srosenbauer/Documents/GitHub/bluenovaio.github.io/sidebars.js",
           "contentPath": "/Users/srosenbauer/Documents/GitHub/bluenovaio.github.io/docs",
           "contentPathLocalized": "/Users/srosenbauer/Documents/GitHub/bluenovaio.github.io/i18n/en/docusaurus-plugin-content-docs/current",
-          "mainDocId": "open-questions",
+          "mainDocId": "overview/intro",
           "sidebars": {
             "tutorialSidebar": [
-              {
-                "type": "doc",
-                "id": "open-questions"
-              },
               {
                 "type": "category",
                 "label": "Overview",
@@ -42,10 +38,6 @@
                 "items": [
                   {
                     "type": "doc",
-                    "id": "getting-started/system-requirements"
-                  },
-                  {
-                    "type": "doc",
                     "id": "getting-started/installing-otto"
                   },
                   {
@@ -55,10 +47,6 @@
                   {
                     "type": "doc",
                     "id": "getting-started/testing-your-app"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "getting-started/markdown-features"
                   }
                 ],
                 "collapsed": true
@@ -68,10 +56,7 @@
           "permalinkToSidebar": {
             "/docs/getting-started/autogenerate-tests": "tutorialSidebar",
             "/docs/getting-started/installing-otto": "tutorialSidebar",
-            "/docs/getting-started/markdown-features": "tutorialSidebar",
-            "/docs/getting-started/system-requirements": "tutorialSidebar",
             "/docs/getting-started/testing-your-app": "tutorialSidebar",
-            "/docs/open-questions": "tutorialSidebar",
             "/docs/overview/intro": "tutorialSidebar",
             "/docs/overview/roadmap": "tutorialSidebar"
           },
@@ -81,7 +66,7 @@
               "id": "getting-started/autogenerate-tests",
               "isDocsHomePage": false,
               "title": "Auto-Generate Your First Test",
-              "description": "Acceptance Criteria:",
+              "description": "MORE DETAILS COMING SOON!!",
               "source": "@site/docs/getting-started/autogenerate-tests.md",
               "sourceDirName": "getting-started",
               "slug": "/getting-started/autogenerate-tests",
@@ -107,12 +92,12 @@
               "id": "getting-started/installing-otto",
               "isDocsHomePage": false,
               "title": "Installing Otto",
-              "description": "Acceptance Criteria:",
-              "source": "@site/docs/getting-started/installing-otto.md",
+              "description": "These instructions are a work in progress. They should be completed by end of Q3 2021. At that point",
+              "source": "@site/docs/getting-started/installing-otto.mdx",
               "sourceDirName": "getting-started",
               "slug": "/getting-started/installing-otto",
               "permalink": "/docs/getting-started/installing-otto",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/getting-started/installing-otto.md",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/getting-started/installing-otto.mdx",
               "version": "current",
               "sidebarPosition": 2,
               "frontMatter": {
@@ -120,8 +105,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "System Requirements",
-                "permalink": "/docs/getting-started/system-requirements"
+                "title": "Roadmap",
+                "permalink": "/docs/overview/roadmap"
               },
               "next": {
                 "title": "Auto-Generate Your First Test",
@@ -129,59 +114,11 @@
               }
             },
             {
-              "unversionedId": "getting-started/markdown-features",
-              "id": "getting-started/markdown-features",
-              "isDocsHomePage": false,
-              "title": "Markdown Features",
-              "description": "Docusaurus supports Markdown and a few additional features.",
-              "source": "@site/docs/getting-started/markdown-features.mdx",
-              "sourceDirName": "getting-started",
-              "slug": "/getting-started/markdown-features",
-              "permalink": "/docs/getting-started/markdown-features",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/getting-started/markdown-features.mdx",
-              "version": "current",
-              "sidebarPosition": 4,
-              "frontMatter": {
-                "sidebar_position": 4
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "How To Test Your App",
-                "permalink": "/docs/getting-started/testing-your-app"
-              }
-            },
-            {
-              "unversionedId": "getting-started/system-requirements",
-              "id": "getting-started/system-requirements",
-              "isDocsHomePage": false,
-              "title": "System Requirements",
-              "description": "Acceptance Criteria:",
-              "source": "@site/docs/getting-started/system-requirements.md",
-              "sourceDirName": "getting-started",
-              "slug": "/getting-started/system-requirements",
-              "permalink": "/docs/getting-started/system-requirements",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/getting-started/system-requirements.md",
-              "version": "current",
-              "sidebarPosition": 1,
-              "frontMatter": {
-                "sidebar_position": 1
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Roadmap",
-                "permalink": "/docs/overview/roadmap"
-              },
-              "next": {
-                "title": "Installing Otto",
-                "permalink": "/docs/getting-started/installing-otto"
-              }
-            },
-            {
               "unversionedId": "getting-started/testing-your-app",
               "id": "getting-started/testing-your-app",
               "isDocsHomePage": false,
               "title": "How To Test Your App",
-              "description": "Acceptance Criteria:",
+              "description": "MORE DETAILS COMING SOON!",
               "source": "@site/docs/getting-started/testing-your-app.md",
               "sourceDirName": "getting-started",
               "slug": "/getting-started/testing-your-app",
@@ -196,32 +133,6 @@
               "previous": {
                 "title": "Auto-Generate Your First Test",
                 "permalink": "/docs/getting-started/autogenerate-tests"
-              },
-              "next": {
-                "title": "Markdown Features",
-                "permalink": "/docs/getting-started/markdown-features"
-              }
-            },
-            {
-              "unversionedId": "open-questions",
-              "id": "open-questions",
-              "isDocsHomePage": false,
-              "title": "Open Questions",
-              "description": "Open Questions:",
-              "source": "@site/docs/open-questions.md",
-              "sourceDirName": ".",
-              "slug": "/open-questions",
-              "permalink": "/docs/open-questions",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/open-questions.md",
-              "version": "current",
-              "sidebarPosition": 1,
-              "frontMatter": {
-                "sidebar_position": 1
-              },
-              "sidebar": "tutorialSidebar",
-              "next": {
-                "title": "Why BlueNova",
-                "permalink": "/docs/overview/intro"
               }
             },
             {
@@ -229,7 +140,7 @@
               "id": "overview/intro",
               "isDocsHomePage": false,
               "title": "Why BlueNova",
-              "description": "Acceptance Criteria:",
+              "description": "COMING SOON!!",
               "source": "@site/docs/overview/intro.md",
               "sourceDirName": "overview",
               "slug": "/overview/intro",
@@ -241,10 +152,6 @@
                 "sidebar_position": 1
               },
               "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Open Questions",
-                "permalink": "/docs/open-questions"
-              },
               "next": {
                 "title": "Roadmap",
                 "permalink": "/docs/overview/roadmap"
@@ -255,7 +162,7 @@
               "id": "overview/roadmap",
               "isDocsHomePage": false,
               "title": "Roadmap",
-              "description": "Acceptance Criteria:",
+              "description": "We are working hard to make our vision of a platform that makes developers lives easier.",
               "source": "@site/docs/overview/roadmap.md",
               "sourceDirName": "overview",
               "slug": "/overview/roadmap",
@@ -272,8 +179,8 @@
                 "permalink": "/docs/overview/intro"
               },
               "next": {
-                "title": "System Requirements",
-                "permalink": "/docs/getting-started/system-requirements"
+                "title": "Installing Otto",
+                "permalink": "/docs/getting-started/installing-otto"
               }
             }
           ]

@@ -3,7 +3,7 @@
   "id": "overview/roadmap",
   "isDocsHomePage": false,
   "title": "Roadmap",
-  "description": "Acceptance Criteria:",
+  "description": "We are working hard to make our vision of a platform that makes developers lives easier.",
   "source": "@site/docs/overview/roadmap.md",
   "sourceDirName": "overview",
   "slug": "/overview/roadmap",
@@ -20,7 +20,7 @@
     "permalink": "/docs/overview/intro"
   },
   "next": {
-    "title": "System Requirements",
-    "permalink": "/docs/getting-started/system-requirements"
+    "title": "Installing Otto",
+    "permalink": "/docs/getting-started/installing-otto"
   }
 }

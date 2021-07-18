@@ -3,15 +3,33 @@ sidebar_position: 2
 ---
 
 # Roadmap
-Acceptance Criteria:
-- MUST describe our roadmap. see below for what I mean
-- MUST keep it high-level and focus on the value prop
+We are working hard to make our vision of a platform that makes developers lives easier.
+Below is a list of the upcoming releases and target dates. Obviously, like anything in software
+as we learn more this will change and we will update appropiately.
 
-Roadmap:
-1. alpha --> OSS Testing Framework + Basic Auto-Generation (September). Closed to select few.
-2. beta v1 --> Cloud + Preview Environments (December). Closed to select few, but willing to accept more than alpha.
-3. beta v2 --> Cloud Advanced Auto-Generation (March 2022)
-4. beta v3 --> Cloud Basic Self-Healing (June 2022)
-5. MVP --> Advanced Self-Healing (September 2022)
+If you have any questions about our roadmap or are looking to be included in one of the closed beta versions, sign up below
+and/or reach out to one of the co-founders below.
 
-***imo we should be able to raise around beta v2/v3 as that's when we will have validation and good revenue
+Seth Rosenbauer: seth@bluenova.io
+
+Zac Rosenbauer: zac@bluenova.io
+
+## Upcoming Releases
+| Version          | Feature                            | Target Release Date |
+| ---------------  | -------------------------------    | ------------------- |
+| alpha            | Auto-Generate Tests                | Q3 2021             |
+| beta (closed)    | Automatic Preview Environments     | Q1 2022             |
+| beta (open)      | Advanced Auto-Generation           | Q2 2022             |
+| general release  | Self-Heal Tests                    | Q3 2022             |
+
+### Auto-Generate Tests
+MORE DETAILS COMING SOON!!
+
+### Automatic Preview Environments
+MORE DETAILS COMING SOON!!
+
+### Advanced Auto-Generation
+MORE DETAILS COMING SOON!!
+
+### Self-Heal Tests
+MORE DETAILS COMING SOON!!

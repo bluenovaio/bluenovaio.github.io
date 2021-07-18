@@ -3,7 +3,7 @@
   "id": "overview/intro",
   "isDocsHomePage": false,
   "title": "Why BlueNova",
-  "description": "Acceptance Criteria:",
+  "description": "COMING SOON!!",
   "source": "@site/docs/overview/intro.md",
   "sourceDirName": "overview",
   "slug": "/overview/intro",
@@ -15,10 +15,6 @@
     "sidebar_position": 1
   },
   "sidebar": "tutorialSidebar",
-  "previous": {
-    "title": "Open Questions",
-    "permalink": "/docs/open-questions"
-  },
   "next": {
     "title": "Roadmap",
     "permalink": "/docs/overview/roadmap"

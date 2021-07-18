@@ -114,7 +114,7 @@
     "component": "component---theme-mdx-page-1-f-3-b90",
     "content": "content---markdown-page-393-028"
   },
-  "/docs-d2f": {
+  "/docs-cb3": {
     "component": "component---theme-doc-page-1-be-9be",
     "versionMetadata": "versionMetadata---docs-935-398"
   },
@@ -122,25 +122,13 @@
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-getting-started-autogenerate-testsca-7-911"
   },
-  "/docs/getting-started/installing-otto-5f3": {
+  "/docs/getting-started/installing-otto-52a": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-getting-started-installing-otto-8-b-4-802"
-  },
-  "/docs/getting-started/markdown-features-e4d": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-getting-started-markdown-features-626-79f"
-  },
-  "/docs/getting-started/system-requirements-0ba": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-getting-started-system-requirements-69-e-3a4"
+    "content": "content---docs-getting-started-installing-ottoadf-6f9"
   },
   "/docs/getting-started/testing-your-app-0de": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-getting-started-testing-your-app-3-eb-90d"
-  },
-  "/docs/open-questions-755": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-open-questionse-02-1ff"
   },
   "/docs/overview/intro-d82": {
     "component": "component---theme-doc-item-178-a40",
